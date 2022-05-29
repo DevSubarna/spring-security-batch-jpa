@@ -1,5 +1,5 @@
 # spring-security-batch-jpa
-software architecure mini project. This project authenticates the user and according to the role it authorizes the user to access to run the .csv batch file to store the data into MySQL database. 
+This project authenticates the user and according to the role it authorizes the user to access to run the .csv batch file to store the data into MySQL database. 
 
 # Getting Started
 
